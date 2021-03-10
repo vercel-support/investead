@@ -1001,13 +1001,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dequal@npm:2.0.2":
-  version: 2.0.2
-  resolution: "dequal@npm:2.0.2"
-  checksum: 3b5b019a873da282a25512c632c077e5e8e2a019e71c5b6968836443b861e44176ee3934facfecdc14994d553c1ff4a6c7232278d6aef87baf65e2413d41760c
-  languageName: node
-  linkType: hard
-
 "des.js@npm:^1.0.0":
   version: 1.0.1
   resolution: "des.js@npm:1.0.1"
@@ -1561,7 +1554,7 @@ fsevents@~2.3.1:
     react: 17.0.1
     react-dom: 17.0.1
     react-icons: 4.2.0
-    swr: 0.4.2
+    swr: 0.5.1
     tailwindcss: 2.0.3
   languageName: unknown
   linkType: soft
@@ -3108,14 +3101,12 @@ resolve@^1.19.0:
   languageName: node
   linkType: hard
 
-"swr@npm:0.4.2":
-  version: 0.4.2
-  resolution: "swr@npm:0.4.2"
-  dependencies:
-    dequal: 2.0.2
+"swr@npm:0.5.1":
+  version: 0.5.1
+  resolution: "swr@npm:0.5.1"
   peerDependencies:
     react: ^16.11.0 || ^17.0.0
-  checksum: c3643842fc271d55e7d8cd6882bb30f8e834f928610381e268b036e84c43809beaf04af222e57669c854e87e45d44d5f172896d07ac5a2a920c2b25ae4a6a455
+  checksum: cde6bfb98c0798456f4d6f7d7379e1409d9e224b7897b2b93f11b668bdbc0a41fa5a8e3e8ca47403a1a91a94de5138be5ed0a4f5ac3bf9b0914dd4d100aea7aa
   languageName: node
   linkType: hard
 
